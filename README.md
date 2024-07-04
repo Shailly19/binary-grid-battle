@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# Binary Grid Battle
 
-Welcome to the Tic Tac Toe game! This project allows you to play the classic game of Tic Tac Toe against a human opponent or a computer player.
+Welcome to the Binary Grid Battle! This project allows you to play the classic game of Tic Tac Toe against a human opponent or a computer player.
 
 ## Features
 
